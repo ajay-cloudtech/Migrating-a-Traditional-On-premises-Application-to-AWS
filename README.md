@@ -1,5 +1,8 @@
 # Migrating-a-Traditional-On-premises-Application-to-AWS
+
 Migrating a Traditional On-premises Application to AWS: A Step-by-Step Journey
+![image](https://github.com/user-attachments/assets/048cb763-5529-4dc9-abcc-ee71e8345eb5)
+
 
 In today’s fast-paced digital landscape, migrating applications and databases to the cloud is no longer a luxury—it’s a necessity. Whether it’s for scalability, cost-efficiency, or improved performance, the cloud offers unparalleled advantages. I had the opportunity to execute a comprehensive migration of a three-tier web application to AWS. Here’s a detailed walkthrough of the key steps, tools, and processes involved in this journey.
 
